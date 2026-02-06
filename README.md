@@ -1,2 +1,8 @@
-# SQL_TP4
-TP SQL – Base Voyageur
+# TP 4 – Commandes SQL
+
+Base de données : Voyageur
+
+## Contenu du dépôt
+- TP4_SQL.sql : toutes les requêtes SQL du TP
+## Auteur
+Alberto Nahra
